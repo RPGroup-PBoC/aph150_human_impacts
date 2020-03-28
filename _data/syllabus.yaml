@@ -7,10 +7,38 @@
    "This Has Been the Best Year Ever" by Nicholas Kristof
 
 - day:
-  date: 3/30/2020
+  date: 4/6/2020
   week: 2
   topic: >
-    The history of humans on Earth 
-  reading: >
-   "This Has Been the Best Year Ever" by Nicholas Kristof
+    The history of humans on Earth.
+
+- day:
+  date: 4/13/2020
+  week: 3
+  topic: >
+    Food by the numbers
+
+- day:
+  date: 4/20/2020
+  week: 4
+  topic: >
+    Water by the numbers
+
+- day:
+  date: 4/27/2020
+  week: 5
+  topic: >
+    Air by the numbers
+
+- day:
+  date: 5/4/2020
+  week: 5
+  topic: >
+    Earth by the numbers
+
+- day:
+  date: 5/11/2020
+  week: 5
+  topic: >
+    Flora and Fauna by the numbers
 
