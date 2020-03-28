@@ -12,9 +12,9 @@
   name: Rob Phillips
   link: "http://www.rpgroup.caltech.edu"
   title: Instructor
+  intstitute: Fred and Nancy Morris Professor of Biology and Biophysics
   img: rob.jpg
   other_info:
-     affiliation: Fred and Nancy Morris Professor of Biology and Biophysics
      Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
 
 - author:
@@ -33,6 +33,7 @@
   title: TA / Webmaster
   img: griffin.jpg
   link: "http://gchure.github.io"
+  institute: Graduate Student in Biochemistry and Molecular Biophysics
   other_info:
     affiliation: Graduate Student in Biochemistry and Molecular Biophysics
     email: gchure [at] caltech [dot] edu
