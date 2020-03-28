@@ -2,8 +2,7 @@
 layout: page
 title: People
 description: About the authors
-img: people.png 
-caption: "T4 Bacteriophage"
+img: cattle.png 
 permalink: people
 sidebar: true
 ---

@@ -3,14 +3,10 @@ layout: page
 title: Code
 img: code.png # Add image post (optional)
 permalink: code
-sidebar: true
+sidebar: false
 ---
 
 ---
-
-During this course, you will develop a computational prowess that will aid in
-your understanding of evolution. We will post Jupyter Notebooks of the tutorial
-sessions here. 
 
 {% for topic in site.data.code %}
 # {{topic[0]}}

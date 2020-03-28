@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Syllabus
-img: reading.png 
+img: amazon.jpg
 permalink: syllabus
-caption: "DNA Sequence Chromatogram"
+caption: "The Amazon"
 sidebar: true
 ---
 

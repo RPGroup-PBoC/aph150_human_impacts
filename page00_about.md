@@ -2,8 +2,8 @@
 layout: page
 title: About
 description: 
-img: corona_virus_goodsell.jpg 
-caption: "Courtesy of David S. Goodsell"
+img: central_valley.png 
+caption: "The central valley of California."
 permalink: index.html
 sidebar: true
 ---

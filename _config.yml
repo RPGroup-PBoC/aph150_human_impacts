@@ -1,13 +1,13 @@
-title: Course Title Here
+title: APh 150 - The Great Human Experiment
 description: > 
-  A one-sentence description of the course
+  Human Impacts by the Numbers
 
-data_url: "http://rpdata.caltech.edu/courses/course_name/course_year/"
+data_url: "http://rpdata.caltech.edu/aph150_human_impacts/2020/"
 
 
 # You can include a logo for your work as a .png that is saved in the folder 
 social-github: RPGroup-PBoC # add your Github handle here.
-# author-img: logo.png # Comment this line out if you don't want a logo. if
+author-img: logo.png # Comment this line out if you don't want a logo. if
                      # absent, text will replace the logo postition.
 
 

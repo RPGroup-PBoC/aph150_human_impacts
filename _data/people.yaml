@@ -9,17 +9,30 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Instructor 1
-  link: "http://google.com"
+  name: Rob Phillips
+  link: "http://www.rpgroup.caltech.edu"
   title: Instructor
   img: rob.jpg
   other_info:
-     Email Address: "blank [at] university [dot] gov"
+     affiliation: Fred and Nancy Morris Professor of Biology and Biophysics
+     Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
 
 - author:
-  name: Instructor 2 without an image
+  name: Alexander Zlokapa
   title: TA 
+  institute: Caltech Physics Undergraduate
+  link: "http://www.its.caltech.edu/~azlokapa/"
+  img: alexander.png
+  other_info:
+    email: azlokapa [at] caltech [dot] edu
+
+
 
 - author:
-  name: Instructor 3 without an image
-  title: TA
+  name: Griffin Chure
+  title: TA / Webmaster
+  img: griffin.jpg
+  link: "http://gchure.github.io"
+  other_info:
+    affiliation: Graduate Student in Biochemistry and Molecular Biophysics
+    email: gchure [at] caltech [dot] edu

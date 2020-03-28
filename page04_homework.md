@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Homework
-img: code.png # Add image post (optional)
+img: california_fire.jpg # Add image post (optional)
 permalink: homework
 sidebar: true
 ---
 
 ---
+
 
 <table>
 <tr>
