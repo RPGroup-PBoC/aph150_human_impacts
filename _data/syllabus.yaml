@@ -1,44 +1,60 @@
 - day:
-  date: 3/30/2020
+  date: 4/8/2020
   week: 1
   topic: >
     Our philosophy behind "The Great Human Experiment by the Numbers"
   reading: >
-   "This Has Been the Best Year Ever" by Nicholas Kristof
+    "This Has Been the Best Year Ever" by Nicholas Kristof and "SARS-CoV-2
+    (COVID-19) By the Numbers" by Yinon Bar-On et al.
 
 - day:
-  date: 4/6/2020
+  date: 4/15/2020
   week: 2
   topic: >
     The history of humans on Earth.
 
 - day:
-  date: 4/13/2020
+  date: 4/22/2020
   week: 3
   topic: >
-    Food by the numbers
+    Food by the numbers.
 
 - day:
-  date: 4/20/2020
+  date: 4/29/2020
   week: 4
   topic: >
-    Water by the numbers
+    Water by the numbers.
 
 - day:
-  date: 4/27/2020
+  date: 5/6/2020
   week: 5
   topic: >
-    Air by the numbers
+    Air by the numbers.
 
 - day:
-  date: 5/4/2020
-  week: 5
+  date: 5/13/2020
+  week: 6
   topic: >
-    Earth by the numbers
+    Earth by the numbers.
 
 - day:
-  date: 5/11/2020
-  week: 5
+  date: 5/20/2020
+  week: 7
   topic: >
     Flora and Fauna by the numbers
+    
+- day:
+  date: 5/27/2020
+  week: 8
+  topic: >
+    Various other topics related to human impacts. 
+
+- day:
+  date: 6/3/2020
+  week: 9
+  topic: >
+    Student presentations.
+
+
+
 

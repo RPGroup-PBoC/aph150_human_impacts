@@ -12,28 +12,16 @@
   name: Rob Phillips
   link: "http://www.rpgroup.caltech.edu"
   title: Instructor
-  intstitute: Fred and Nancy Morris Professor of Biology and Biophysics
+  institute: Fred and Nancy Morris Professor of Biology and Biophysics
   img: rob.jpg
   other_info:
-     Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
-
-- author:
-  name: Alexander Zlokapa
-  title: TA 
-  institute: Caltech Physics Undergraduate
-  link: "http://www.its.caltech.edu/~azlokapa/"
-  img: alexander.png
-  other_info:
-    email: azlokapa [at] caltech [dot] edu
-
-
+     email: "phillips [at] pboc [dot] caltech [dot] edu"
 
 - author:
   name: Griffin Chure
-  title: TA / Webmaster
+  title: TA 
   img: griffin.jpg
   link: "http://gchure.github.io"
   institute: Graduate Student in Biochemistry and Molecular Biophysics
   other_info:
-    affiliation: Graduate Student in Biochemistry and Molecular Biophysics
     email: gchure [at] caltech [dot] edu
