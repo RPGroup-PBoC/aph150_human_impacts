@@ -32,7 +32,7 @@ Week 1:
     title: >
        "Bill Gates tweeted out a chart and sparked a huge debate about global
         poverty"   
-    author: Dylan Matthews at Vox
+    authors: Dylan Matthews at Vox
     year: 2019
     link_type: external
     link: > 
@@ -43,10 +43,8 @@ Week 1:
        ways in which political vision insinuates itself into discussions of
        facts.
   - pub: 
-    title: >
-       "Why You Shouldn’t Listen to Self-Serving Optimists Like Hans Rosling and
-       Steven Pinker"
-    author: Roland Paulsen at In These Times
+    title: "Why You Shouldn’t Listen to Self-Serving Optimists Like Hans Rosling and Steven Pinker"
+    authors: Roland Paulsen at In These Times
     year: 2019
     link_type: external
     link: >
