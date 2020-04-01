@@ -1,20 +1,56 @@
 Week 1:
- - pub: 
-   title: "This Has Been the Best Year Ever"
-   authors: Nicholas Kristof at the New York Times.
-   year: 2019 
-   link_type: external
-   link: "https://www.nytimes.com/2019/12/28/opinion/sunday/2019-best-year-poverty.html"
-   description: >
-      Each year Nicholas Kristof ends the year with his assessment of how we are
-      doing. His articles are an interesting reminder of the different sides of
-      the ledger seat on humans, their impacts and their own well being.
- - pub:
-   title: SARS-CoV-2 (COVID-19) By The Numbers
-   authors: Yinon M. Bar-On, Avi Flamholz, Rob Phillips, and Ron Milo.
-   year: 2020
-   link: "Bar-On_2020.pdf"
-   description: > 
-      This snapshot gives a one-page reference for important numbers related to
-      the SARS-CoV-2 virus. Our goal in this course is to generate a similar
-      document to summarize the human impact on the planet. 
+  - pub: 
+    title: "This Has Been the Best Year Ever"
+    authors: Nicholas Kristof at the New York Times.
+    year: 2019 
+    link_type: external
+    link: "https://www.nytimes.com/2019/12/28/opinion/sunday/2019-best-year-poverty.html"
+    description: >
+       Each year Nicholas Kristof ends the year with his assessment of how we are
+       doing. His articles are an interesting reminder of the different sides of
+       the ledger seat on humans, their impacts and their own well being.
+  - pub:
+    title: SARS-CoV-2 (COVID-19) By The Numbers
+    authors: Yinon M. Bar-On, Avi Flamholz, Rob Phillips, and Ron Milo.
+    year: 2020
+    link: "Bar-On_2020.pdf"
+    description: > 
+       This snapshot gives a one-page reference for important numbers related to
+       the SARS-CoV-2 virus. Our goal in this course is to generate a similar
+       document to summarize the human impact on the planet. 
+  - pub:
+    title: The Gapminder Test 
+    authors: The Gapminder Team 
+    year: 2018
+    link_type: external
+    link: "http://forms.gapminder.org/s3/test-2018"
+    description: > 
+       Take this quiz before you do anything else. Don’t google anything, don’t talk
+       to anyone - when you see this posting, go to the website and spend the 5
+       minutes to take the test. Record your answers, we will discuss this in class.
+  - pub: 
+    title: >
+       "Bill Gates tweeted out a chart and sparked a huge debate about global
+        poverty"   
+    author: Dylan Matthews at Vox
+    year: 2019
+    link_type: external
+    link: > 
+       "https://www.vox.com/future-perfect/2019/2/12/18215534/bill-gates-global-poverty-chart"
+    description: > 
+       This article gives an indication of the difficulty of our topic. Even
+       questions about facts spawn indignation. We will try to be cognizant of the
+       ways in which political vision insinuates itself into discussions of
+       facts.
+  - pub: 
+    title: >
+       "Why You Shouldn’t Listen to Self-Serving Optimists Like Hans Rosling and
+       Steven Pinker"
+    author: Roland Paulsen at In These Times
+    year: 2019
+    link_type: external
+    link: >
+       "https://inthesetimes.com/article/21771/new-optimists-bill-gates-steven-pinker-hans-rosling-world-health"
+    description: > 
+       This is a second example of the extremely polarizing views that emerge in
+       discussing the state of the world.

@@ -1,5 +1,16 @@
-
-# - link:
-#   title: VIPERdb. 
-#   address: "http://viperdb.scripps.edu/"
-#   description: VIPERdb houses structural analysis for icosahedral virus capsid structures. They have renderings online and computational analyses. Mentioned in lecture 1.
+- link:
+  title: "Our World in Data"
+  address: "https://ourworldindata.org/"
+  description: > 
+    This is one of the most important questions we will address in this
+    course is how to judge different data sources, whether about the number
+    of proteins in a bacterium or the number of sharks killed each year to
+    make shark fin soup. This website will serve as a jumping off point for
+    some of our studies.
+- link: 
+  title: "Media Bias Fact Check"
+  address: "https://mediabiasfactcheck.com"
+  description: > 
+    This website claims to check the veracity of the posts on websites as well as
+    to rate whether that data is presented from the standpoint of a political
+    agenda.
