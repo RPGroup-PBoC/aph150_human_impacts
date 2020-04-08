@@ -48,3 +48,15 @@ Week 1:
     description: > 
        This is a second example of the extremely polarizing views that emerge in
        discussing the state of the world.
+  - pub:
+    title: 'Supplementary Information for "SnapShot: Basic Numbers For Cell Biology"'
+    authors: "Yinon Bar-On, Ron Milo, and Rob Phillips." 
+    year: 2010
+    link: Bar-On_2010_SI.pdf
+    description: >
+      This is a model for how I want us to assemble our data
+      on all the key numbers we examine in the context of human impacts.
+      We should have a HIID (Human Impact Identification Number),
+      an explanation of the value, how it was measured, quote the original
+      source where the number was reported and if possible, comment
+      decisively on the uncertainty. 
