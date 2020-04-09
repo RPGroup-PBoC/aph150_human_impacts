@@ -20,3 +20,17 @@
   description: >
     This website is another provocative source of data on human impacts that we
     will try to draw from and examine critically.
+
+- link:
+  title: "The Bionumbers Database"
+  address: "https://bionumbers.hms.harvard.edu/search.aspx"
+  description: > 
+    This website is a database for numbers of interest for biology. Our aim is to 
+    generate an analogous website for human impacts. 
+  
+- link:
+  title: "Cell Biology by the Numbers"
+  address: "http://book.bionumbers.org/"
+  description: > 
+    This is an online version of a textbook dissecting biological phenomena
+    in the same spirit as we will dissect human impacts. 

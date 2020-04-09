@@ -60,3 +60,60 @@ Week 1:
       an explanation of the value, how it was measured, quote the original
       source where the number was reported and if possible, comment
       decisively on the uncertainty. 
+  - pub:
+    title: "The Biomass Distribution on Earth"
+    authors: "Yinon Bar-On, Rob Phillips, and Ron Milo."
+    year: 2018
+    link: Bar-On_2018.pdf
+    description: > 
+      This paper takes a deep dive into quantifying the biomass of our planet. To 
+      reach our conclusions, we carefully reviewed myriad data sets related to the
+      flora and fauna of the planet and were dilligent with assessing their accuracy. 
+  - pub:
+    title: "More than 75 percent decline over 27 years in total flying insect biomass in protected areas"
+    authors: 
+      Caspar A. Hallmann,
+      Martin Sorg,
+      Eelke Jongejans,
+      Henk Siepel,
+      Nick Hofland,
+      Heinz Schwan,
+      Werner Stenmans,
+      Andreas Müller,
+      Hubert Sumser,
+      Thomas Hörren,
+      Dave Goulson,
+      Hans de Kroon
+    year: 2017
+    link: "Hallmann_2017.pdf"
+  - pub:
+    title: "Alien species pathways to the Galapagos Islands, Ecuador"
+    year: 2017
+    authors: 
+      M. Verónica Toral-Granda,
+      Charlotte E. Causton,
+      Heinke Jäger,
+      Mandy Trueman,
+      Juan Carlos Izurieta,
+      Eddy Araujo,
+      Marilyn Cruz,
+      Kerstin K. Zander,
+      Arturo Izurieta,
+      Stephen T. Garnett
+    link: Toral-Granda_2017.pdf
+
+  - pub:
+    title: "Sequential megafaunal collapse in the NOrth Pacific Ocean: AN ongoing legacy of industrial whaling"
+    authors: "A. M. Springer, J. A. Estes, G. B. van Vliet, T. M. Williams, D. F. Doak, E. M. Danner, K. A. Forney, and B. Pfister"
+    year: 2003
+    link: Springer_2003.pdf
+  - pub:
+    title: "How a century of ammonia synthesis changed the world"
+    year: 2008
+    authors: "Jan Willem Erisman, Mark A. Sutton, James Galloway, Zbigniew Klimont & Wilfried Winiwarter"
+    link: "Erisman_2008.pdf"
+  - pub:
+    title: "Global trends in emerging infectious diseases"
+    year: 2008
+    authors: "Kate E. Jones, Nikkita G. Patel, Marc A. Levy, Adam Storeygard, Deborah Balk, John L. Gittleman & Peter Daszak"
+    link: Jones_2008.pdf
