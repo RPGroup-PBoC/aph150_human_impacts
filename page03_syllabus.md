@@ -21,8 +21,8 @@ sidebar: true
     <td>{{day.week}}</td>
     <td>{{day.topic}}</td>
     {% if day.slides %}
-    <td><a href="{{site.data_url}}/{{day.slides}}">
-    PDF </a></td>
+    <td><a href="{{day.slides}}">
+    Download </a></td>
     {% else %}
     <td>  </td>
     {% endif %}
