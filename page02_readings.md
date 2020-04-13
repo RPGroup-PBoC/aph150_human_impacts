@@ -15,8 +15,13 @@ All information is scraped from the _data/readings.yaml and _data/links.yaml.
 Edit those to update the website
 -->
 
-Throughout the course, we will post readings mentioned in class or those that we
-think are aligned with our scientific interests.   
+Throughout the course, we will post readings mentioned in class or those that
+we think are aligned with our scientific interests. NOTE: Though many of our
+links will be to the original source literature, I will also draw liberally
+from the tremendous work of science journalists such as David Quammen, Carl
+Zimmer and Ed Yong. I have followed all of them closely and when they write
+about areas I am close to, they almost always have it right, though of course
+they express a point of view.
 
 {% for day in site.data.readings %}
 ## {{day[0]}}
