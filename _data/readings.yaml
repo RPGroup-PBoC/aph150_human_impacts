@@ -138,30 +138,6 @@ Week 2:
      draws from archaeology and modern DNA science.  The story of
      Greger Larson will be one of our main touch points and
      this article by Ed Yong puts the latest research in perspective.
-  - pub: 
-    title: "DNA Evidence of Dog Domestication"
-    authors: Greger Larson.
-    year: 2016
-    link_type: external
-    link: "https://www.youtube.com/watch?reload=9&v=JCEyaYjT8-k"
-    description: > 
-      **Recommended Viewing**: Greger Larson is one of the principal
-      figures thinking about the domestication of dogs. This excellent podcast
-      explains the special relationship humans have with their canine partners. One
-      of the most interesting hypotheses described here is that wolves
-      self-domesticated.
-  - pub:
-    title: "Dog Tales Follow the epic journey of dog domestication and see what science says about dogs’ love."
-    authors: NOVA
-    year: 2020
-    link_type: external
-    link: "https://www.pbs.org/wgbh/nova/video/dog-tales/"
-    description: >
-      **Recommended Viewing**: A superb NPR video on the
-      domestication of dogs. One of the most amazing parts of this video is when
-      they travel the long running (60 year) experiment on domesticating foxes and
-      high artificial selection on behavior had the unintended side effect of
-      producing foxes with white chests, floppy ears and wagging, curled tails.
   - pub:
     title: The Evolution of Animal Domestication 
     authors: Greger Larson and Dorian Q. Fuller
@@ -171,17 +147,7 @@ Week 2:
       **Recommended Reading**: This excellent
       article gives a fuller picture of animal domestication. I especially love
       figure 2 which gives a timeline of animal domestication.
-  - pub: 
-    title: Unlocking Evolution
-    authors: Allan Wilson
-    year: 2015
-    link_type: external
-    link: "https://video.channel24.co.za/show/38655"
-    description: > 
-      **Recommended Viewing**: Allan Wilson will be one of the main heroes in this week’s discussion and
-      this excellent set of two videos give a clear impression of this great man
-      and his achievements. Highly recommended. 
-  - pub:
+    - pub:
     title: "Great Transitions: The Origin of Humans"
     authors: the HHMI.
     year: 2014
@@ -223,3 +189,38 @@ Week 2:
       view of the tensions between archaeologists and DNA scientists as they try to
       understand the trajectory of humans to become the stewards of the modern
       earth.
+  - pub:
+    title: A Molecular Time Scale For Human Evolution
+    authors: A. C. WIlson and V. M. Sarich
+    year: 1969
+    link: Wilson_1969.pdf
+    description: > 
+      **Recommended Reading**
+  - pub: 
+    title: The Molecular Genetics of Crop Domestication
+    authors: John F. Doebley, Drandon S. Gaut, and Bruce D. Smith.
+    year: 2006
+    link: Doebley_2006.pdf
+    description: > 
+      **Recommended Reading**
+  - pub: 
+    title: Humans As The World's Greatest Evolutionary Force 
+    authors: Stephen Palumbi.
+    year: 2000
+    link: Palumbi_2000.pdf
+    description: > 
+      **Recommended Reading**
+  - pub:
+    title: Trophic Downgrading of Planet Earth 
+    authors: >
+      James A. Estes, John Terborgh, Justin S. Brashares, Mary E. Power, Joel
+      Berger, William J. BOnd, Stephen R. Carpenter, Timothy E. Essington,
+      Robert D. Holt, Jeremy B. C. Jackson, Rober J. Marquis, Lauri Oksanen,
+      Tarja Oksanen, Robert T. Paines, Ellen K. Pikitch, William J. Ripple,
+      Stuart A. Sandein, Marten Scheffer, THomas W. Schoener, Jonathan B.
+      Shurin, Anthony R. E. Sinclair, Michael E. Soulé, Risto Virtanen, and
+      David A. Wardle.
+    year: 2011
+    link: Estes_2011.pdf
+    description: >
+      **Recommended Reading**

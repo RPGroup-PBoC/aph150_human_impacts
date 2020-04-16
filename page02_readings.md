@@ -23,6 +23,8 @@ Zimmer and Ed Yong. I have followed all of them closely and when they write
 about areas I am close to, they almost always have it right, though of course
 they express a point of view.
 
+# Readings 
+
 {% for day in site.data.readings %}
 ## {{day[0]}}
 {% for pub in day[1] %}
@@ -31,6 +33,19 @@ they express a point of view.
   %}{{pub.description}}{%endif%}
 {%endfor%}
 {%endfor%}
+
+
+# Videos
+{% for day in site.data.readings %}
+## {{day[0]}}
+{% for video in day[1] %}
+* [**{{video.title}}**]({{video.link}}) by
+  <i>{{pub.authors}}</i> ({{pub.year}}). {%if pub.description %}{{pub.description}}{%endif%}
+{%endfor%}
+{%endfor%}
+
+
+
 
 <center>
 <h1> Useful links</h1>
