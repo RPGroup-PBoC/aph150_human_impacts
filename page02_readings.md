@@ -36,11 +36,11 @@ they express a point of view.
 
 
 # Videos
-{% for day in site.data.readings %}
+{% for day in site.data.videos %}
 ## {{day[0]}}
 {% for video in day[1] %}
 * [**{{video.title}}**]({{video.link}}) by
-  <i>{{pub.authors}}</i> ({{pub.year}}). {%if pub.description %}{{pub.description}}{%endif%}
+  <i>{{video.authors}}</i> ({{video.year}}). {%if video.description %}{{video.description}}{%endif%}
 {%endfor%}
 {%endfor%}
 

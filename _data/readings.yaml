@@ -124,6 +124,7 @@ Week 1:
     link: Jones_2008.pdf
     description: > 
       **Recommended Reading**
+      
 Week 2:
   - pub:
     title: "The Origin of Dogs: When, Where, and How Many Times Were They Domesticated?"
@@ -132,12 +133,12 @@ Week 2:
     link_type: external
     link: "https://www.theatlantic.com/science/archive/2016/06/the-origin-of-dogs/484976/"
     description: >
-     **Required Reading**: The domestication of dogs was the first
-     real example of human domestication of either plants or animals.
-     There is a vast and wonderful literature on this subject that
-     draws from archaeology and modern DNA science.  The story of
-     Greger Larson will be one of our main touch points and
-     this article by Ed Yong puts the latest research in perspective.
+      **Required Reading**: The domestication of dogs was the first
+      real example of human domestication of either plants or animals.
+      There is a vast and wonderful literature on this subject that
+      draws from archaeology and modern DNA science.  The story of
+      Greger Larson will be one of our main touch points and
+      this article by Ed Yong puts the latest research in perspective.
   - pub:
     title: The Evolution of Animal Domestication 
     authors: Greger Larson and Dorian Q. Fuller
@@ -147,7 +148,7 @@ Week 2:
       **Recommended Reading**: This excellent
       article gives a fuller picture of animal domestication. I especially love
       figure 2 which gives a timeline of animal domestication.
-    - pub:
+  - pub:
     title: "Great Transitions: The Origin of Humans"
     authors: the HHMI.
     year: 2014
