@@ -225,3 +225,63 @@ Week 2:
     link: Estes_2011.pdf
     description: >
       **Recommended Reading**
+
+Week 3:
+  - pub: 
+    title: "Prediction, Prevention and Remediation of Soil Degradation by Water Erosion"
+    authors: Joel B. Gruver.
+    link_type: external 
+    link: >
+      https://www.nature.com/scitable/knowledge/library/prediction-prevention-and-remediation-of-soil-degradation-113130829/
+    year: 2013
+    description: > 
+      **Required Reading**: This website gives an overview of some of the issues surrounding soil
+      degradation and agriculture. One of the claims made here that I have
+      now heard more than once this week talking to the professionals in the
+      field is that humans have become a great agent moving around earth:
+      "Natural erosional processes occur most intensively in mountainous
+      regions (Figure 2) and generate approximately 20 gigatons of sediment
+      annually (Wilkinson and McElroy 2006). In comparison, human geomorphic
+      activities, principally agriculture, construction and mining mostly
+      occur at lower elevations and annually move more than 100 gigatons of
+      earth materials (Hooke 2000). Humanity has surpassed the timeless
+      contest between uplift and erosion as the dominant agent of geomorphic
+      change."
+  - pub:
+    title: >
+      Land, irrigation water, greenhouse gas, and reactive nitrogen burdents of
+      meat, eggs, and dairy production in the United States  
+    authors: Gidon Eshel, Alon Shepon, Tamar Makov, and Ron Milo.
+    year: 2014
+    link: Eschel_2014.pdf
+    description: >
+      **Required Reading**: This great paper gives a deep and thorough analysis (see the SI as well)
+      about the resources needed to fulfill our animal-based diets.
+  - pub:
+    title: >
+      The impact of humans on continental erosion and sedimentation. 
+    authors: Bruce H. Wilkinson and Brandon J. McElroy. 
+    link: "Wilkinson_2007.pdf"
+    year: 2007
+    description: > 
+      **Required Reading**: This paper is one of the key sources on humans and
+      erosion.
+  - pub: 
+    title: Soil erosion and agricultural sustainability 
+    authors: David R. Montgomery 
+    year:  2007 
+    link: Montgomery_2007.pdf
+    description: > 
+      **Required Reading**: This paper is one of our key sources for thinking about soil
+      and agriculture
+  - pub:
+    title: Global Fishery prospects under contrasting management regimes
+    authors: >
+      Christopher Costello, Daniel Ovando, Tyler Clavelle, C. Kent STruass, Ray
+      HIlborn, Michael C. Melnychuk, Terevor A. Branch, Steven D. Gaines, Cody
+      S. Szuwalski, Reniel B. Cabral, Douglas N. Rader, and Amanda Leland. 
+    year: 2016 
+    link: Costello_2016.pdf
+    description: > 
+      **Required Reading**: This paper gives an overview of the status of our
+      fisheries.
