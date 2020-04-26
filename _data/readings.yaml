@@ -282,3 +282,28 @@ Week 3:
     description: > 
       This paper gives an overview of the status of our
       fisheries. **Required Reading**
+    
+Week 4:
+  - pub:
+    title: Sea-Level Rise from the Late 19th to the Early 21st Century 
+    authors: John A. Church and Neil J. White
+    year: 2011
+    link: Church_2011.pdf
+    description: >
+      **Required Reading**
+  - pub:
+    title: "Climate-change-driven accelerarted sea-level rise detected in the altimeter era"
+    authors: >
+       R. S. Nerem, B. D. Beckley, J. T. Fasullo, B. D. Hamlington, D.
+       Masters, and G. T. Mitchum.
+    year: 2018
+    link: Nerem_2018.pdf
+    description: >
+      **Required Reading**
+  - pub: 
+    title: Recent global sea-level acceleration started over 200 years ago?
+    authors: S. Jevrejeva, J. C. Moore, A. Grinsted, and P. L. Woodworth.
+    year: 2008
+    link: Jevrejeva_2008.pdf
+    description: > 
+      **Required Reading**
