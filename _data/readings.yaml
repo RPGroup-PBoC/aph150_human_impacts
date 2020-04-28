@@ -283,7 +283,26 @@ Week 3:
       This paper gives an overview of the status of our
       fisheries. **Required Reading**
     
-Week 4:
+Week 4 - Big Picture:
+  - pub: 
+    title: "Global warming debates - a guided reading course"
+    authors: Eli Galanti 
+    year: 2019
+    link_type: external
+    link: "https://galanti-courses.neocities.org/Global-warming-debates-2019/"
+    description: > 
+      This course has many interesting topics for your consideration. I highly
+      recommend you watch the <a
+      href="https://www.youtube.com/playlist?list=PLePuceFKpg3AOXzPjMXD7ojHsZ9aPkiev">
+      introductory videos </a> (and try to be in a receptive mood just to learn
+      about the range of views out there). In general, this course acknowledges the
+      difference between ignorance and skepticism and as I told you at the
+      beginning, our first order of business is to try and get our facts as
+      straight as we can without coming to those facts with an agenda. Then, it
+      would be great to start noting the different hypotheses set forth to explain
+      the facts that have been settled.
+
+Week 4 - Sea Level Rise:
   - pub:
     title: Sea-Level Rise from the Late 19th to the Early 21st Century 
     authors: John A. Church and Neil J. White
@@ -306,7 +325,7 @@ Week 4:
     year: 2008
     link: Jevrejeva_2008.pdf
     description: > 
-      **Required Reading**
+       This paper takes an alternative view on the origin of sea-level rise. **Required Reading**
   - pub:
     title: Significant plastic accumulation on the Cocos (Keeling) Islands, Australia 
     authors: J. L. Lavers, L. Dicks, and A. Finger.
@@ -315,3 +334,44 @@ Week 4:
     description: >
       This paper reports on plastics in the ocean and how this waste ends up on 
       uninhabited islands. **Required Reading**
+  - pub:
+    title: Global Mean Sea Level from TOPEX & Jason Altimetry  
+    authors: NCAR/UCAR Climate Data Guide.
+    year: 2020
+    link_type: external
+    link: "https://climatedataguide.ucar.edu/climate-data/global-mean-sea-level-topex-jason-altimetry"
+    description: >
+      As I keep emphasizing, I am above all focused on how we know what we think we
+      know. This is an excellent site telling you about the amazing use of
+      satellites to measure sea level.
+  - pub: 
+    title: Tide gauge sea level data
+    authors: NCAR/UCAR Climate Data Guide
+    year: 2020
+    link_type: external
+    link: "https://climatedataguide.ucar.edu/climate-data/tide-gauge-sea-level-data"
+    description: > 
+      This website gives an overview of the use of tide gauges as a complementary
+      means of measuring sea level.
+  - pub: 
+    title: Tide Gague Sea Level
+    authors: CU Sea LevelResearch Group 
+    year: 2011
+    link_type: external
+    link: "http://sealevel.colorado.edu/content/tide-gauge-sea-level"
+    description: > 
+      This is a second excellent source for learning about the use of tide gauges,
+      a subject near and dear to my heart as a passionate student of the tides,
+      both as a surfer and as a lover of celestial mechanics.
+Week 4 - Freshwater Use:
+  - pub: 
+    title: Freshwater Withdrawals in the United States
+    authors: USGS
+    year: 2020 
+    link_type: external
+    link: "https://www.usgs.gov/special-topic/water-science-school/science/freshwater-withdrawals-united-states?qt-science_center_objects=0#qt-science_center_objects"
+    description: > 
+      This site from the USGS provides a very interesting view of our freshwater
+      use. As I have pointed out, my hope is always to have estimated the numbers
+      before looking at the data and this is the kind of data that we will appeal
+      to in light of our order-of-magnitude thinking.
