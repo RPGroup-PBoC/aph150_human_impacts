@@ -411,3 +411,39 @@ Week 6:
     link: BP_2019.pdf
     description: >
       **Recommended Reading**
+  - pub:
+    title: "MERIT Hydro: Global Hydrography Datasets"
+    authors: Dai Yamazaki.
+    year: 2019
+    link_type: external
+    link: "http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/"
+    description: > 
+       This website is interesting because it describes rivers around the
+       world, including their change in height.
+  - pub: 
+    title: "MERIT DEM: Multi-Error-Removed Improved-Terrain DEM"
+    authors: Dai Yamazaki.
+    year: 2018
+    link_type: external
+    link: "http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/"
+    description: > 
+      Like the website above, this reports terrain elevations surrounding river
+      systesms. 
+  - pub: 
+    title: "LLNL Energy Flow Charts"
+    authors: the Lawrence-Livermore National Laboratory.
+    year: 2019 
+    link_type: external
+    link: "https://flowcharts.llnl.gov/commodities/energy"
+    description: > 
+      This website provides annual data on energy flows in the US.
+
+  - pub:
+    title: Sustainable Energy Without The Hot Air 
+    authors: David Mackay.
+    link_type: external 
+    link: "https://www.withouthotair.com/ "
+    description: > 
+      This book by David Mackay, like everything he wrote that I am aware of,
+      is full of deep insights into questions of human impacts related to
+      energy and climate.
