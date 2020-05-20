@@ -34,3 +34,20 @@
   description: > 
     This is an online version of a textbook dissecting biological phenomena
     in the same spirit as we will dissect human impacts. 
+
+- link:
+  title: "How many photons does it take to make a cyanobacterium?"
+  address: "http://book.bionumbers.org/how-many-photons-does-it-take-to-make-a-cyanobacterium/"
+  description: >
+    Here is one example of a vignette from "Cell Biology by the Numbers" which
+    presents a question, a succinct bit of background, and an estimate. We hope
+    to see your vignettes be made in the same style, though submitted as a PDF. 
+
+
+- link: 
+  title: "How many virions result from a single viral infection?"
+  address: "http://book.bionumbers.org/how-many-virions-result-from-a-single-viral-infection/"
+  description: > 
+    A timely vignette from "Cell Biology by the Numbers" where a simple estimate
+    of a viral burst size is made.
+    
