@@ -441,9 +441,76 @@ Week 6:
   - pub:
     title: Sustainable Energy Without The Hot Air 
     authors: David Mackay.
+    year: 2008
     link_type: external 
     link: "https://www.withouthotair.com/ "
     description: > 
       This book by David Mackay, like everything he wrote that I am aware of,
       is full of deep insights into questions of human impacts related to
       energy and climate.
+
+- Week 7:
+  - pub:
+    title: The Biodiversity Conservation Paradox
+    authors: Mark Vellend. 
+    year: 2017
+    link_type: external
+    link: "https://www.americanscientist.org/article/the-biodiversity-conservation-paradox"
+
+  - pub:
+    title: "The Siberian Traps and the End-Permean Mass Extinction: A Critical Review"
+    authors: Andy Saunders and Marc Reichow
+    year: 2009
+    link: Saunders_2009.pdf
+
+  - pub: 
+    title: Charles Elton's Accounts of Expeditions from Oxford to the Arctic in the 1920s
+    authors: Caroline M. Pond
+    year: 2015
+    link: Pond_2015.pdf
+
+  - pub: 
+    title: "Invasive Species: What Everyone Needs to Know"
+    authors: Daniel Simberloff.
+    year: 2013
+    link_type: external
+    link:  "https://www.amazon.com/Invasive-Species-Everyone-Needs-Know%C2%AE/dp/0199922039"
+    
+  - pub: 
+    title: The Ecology of Invasions by Animals and Plants
+    authors: Charles S. Elton
+    year: 1958
+    link_type: external
+    link: "https://www.amazon.com/Ecology-Invasions-Animals-Plants/dp/0226206386"
+
+  - pub: 
+    title: Community Structrue, Population Control, and Compettition
+    authors: Nelson G. Hairston, Frederick E. Smith, and Lawrence B. Slobodkin
+    year: 1960
+    link: Hairston_1960.pdf
+  
+  - pub: 
+    title: "Emptying the Oceans: A Summary of Industrial Whaling Catches in the 20th Century" 
+    authors: Robert C. Rocha, Phillip J. Clapham, and Yulia V. Ivashchenko
+    year: 2015
+    link: Rocha_2015.pdf
+
+  - pub: 
+    title: "The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest"
+    authors: >
+      Michael R. Hall, Kevin M. Kocot, Kenneth W. Baughman, Selene L.
+      Fernandez-Valverde, Marie E. A. Gauthier, William L. Hatleberg, Arunkuman
+      Krishnan, Carmel McDougall, Cherie A. Mottie, Eiichi Shoguchi, Tiangfang
+      Wang, Xueya iang, Min Zhao, Utpal Bose, Chuya Shinzato, Kanako hisata,
+      Manabu Fujie, Miyuka Kanda, Scott F. Cumins, Noriyuki Satoh, Sandie M.
+      Degnan, and Bernard M. Degnan.
+    year: 2017
+    link: Hall_2017.pdf
+
+  - pub:
+    title: "A disease-mediated trophic cascade in the Serengeti and its implications for Ecosystem C."
+    authors: > 
+      Richard M. Holdo, Anthony R. E. Sinclair, Andrew P. Dobson,
+      Kristine L. MEtzger, Benjamin M. Bolker, MArk E. Ritchie, Robert D. Holt.
+    year: 2009
+    link: Holdo_2009.pdf
